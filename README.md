@@ -1,0 +1,1 @@
+This is a Full-stack app which uses DRF backend to send the Flight data and Angular front-end to display the data as a single page app.
